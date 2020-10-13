@@ -10,3 +10,4 @@ menyaju na branche fix_bug
 fjjfjfjfjfjjf
 fkkfekfelkf
 WAU
+new line by echo >>
